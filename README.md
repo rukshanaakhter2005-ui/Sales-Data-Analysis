@@ -1,2 +1,40 @@
 # Sales-Data-Analysis
-Data analysis project using Excel,SQL and data visualization
+
+## Project Overview
+
+This project analyzes sales data to identify important trends, patterns, and business insights.
+
+## Objectives
+
+- Analyze sales performance
+- Identify top-selling products
+- Find sales trends
+- Understand customer purchasing patterns
+- Create useful visualizations
+
+## Tools and Technologies
+
+- Excel
+- SQL
+- Data Visualization
+
+## Data Analysis Process
+
+1. Business Understanding
+2. Data Understanding
+3. Data Cleaning
+4. Data Analysis
+5. Data Visualization
+6. Insights and Results
+
+## Key Insights
+
+Insights will be added after completing the analysis.
+
+## Project Status
+
+In Progress
+
+## Author
+
+Rukshana Akhter
