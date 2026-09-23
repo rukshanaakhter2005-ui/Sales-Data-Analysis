@@ -30,6 +30,7 @@ This project analyzes sales data to identify important trends, patterns, and bus
 ## Key Insights
 
  -Total Sales: ₹10,71,600
+
  -Total Quantity Sold: 188
 
 ## Project Status
